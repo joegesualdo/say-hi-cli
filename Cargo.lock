@@ -10,7 +10,7 @@ checksum = "eff905b1fd5f7b07f5aae9816aa26a8c6cba3e47f313a1994d09ef5cdb6daf16"
 
 [[package]]
 name = "say-hi-cli"
-version = "0.1.2"
+version = "0.1.0"
 dependencies = [
  "say-hi",
 ]
